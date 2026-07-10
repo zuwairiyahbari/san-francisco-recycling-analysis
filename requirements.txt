@@ -1,0 +1,4 @@
+pandas
+matplotlib
+
+Add project dependencies
