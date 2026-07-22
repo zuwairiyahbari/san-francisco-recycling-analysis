@@ -1,0 +1,6 @@
+material,tons_recycled,tons_disposed,recycle_cost_per_ton,landfill_cost_per_ton,emissions_saved_tCO2_per_ton,scc_usd_per_tCO2
+recyclables_mrf,136176,22290,207.47,188.23,2.94,190
+compostables,139109,27028,207.47,188.23,0.42,190
+imrf_mixed,29970,16658,51.29,188.23,0.30,190
+other_tunnel_ave,21465,318318,55.85,188.23,0.05,190
+sustainable_crushing,4068,0,55.85,188.23,0.009,190
